@@ -1,0 +1,1 @@
+create a database.js file in config directory having secret and database url
